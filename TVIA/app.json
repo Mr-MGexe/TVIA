@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "TVIA",
+    "slug": "TVIA",
+    "version": "1.0.0",
+    "platforms": ["android", "ios", "web"],
+    "android": {
+      "package": "com.anonymous.TVIA"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb499069-de66-4fe5-bd39-4d8e94eb35b4"
+      }
+    }
+  }
+}
+
